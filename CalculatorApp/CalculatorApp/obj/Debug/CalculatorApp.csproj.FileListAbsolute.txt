@@ -1,0 +1,12 @@
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FormCalculator.resources
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.FormHasilPerhitungan.resources
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+D:\AMIKOM Yogyakarta\Mata Kuliah\Parno Husi\Semester 3\Pemrograman Lanjut\Praktikum\Prak8\Module Praktikum 08\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
